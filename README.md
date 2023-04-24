@@ -1,8 +1,8 @@
 # AivanKan
 
-O projeto AivanLinks, foi desenvolvido através de um "curso" preparatório para iniciantes na programação, o curso é fornecido pela Rocketseat.
+O projeto AivanKan, foi desenvolvido atrás de um evento que rola toda semana na plataforma da Rocketseat, o #BoraCodar.
 
-O Projeto AivanLinks, tem como objetivo ajudar o cliente a se achar nas redes sociais de uma pessoa, empresa, negócio, etc....
+O projeto tem como objetivo, ajudar o cliente a se organizar nas suas tarefas, desde tarefas do trabalho, de casa ou até mesmo do ambiente escolar. O projeto é capaz de mostrar quais estão feitas, a fazer ou fazendo, dando assim ao cliente, uma melhor visibilidade das tarefas.
 
 ## Demonstração
 
